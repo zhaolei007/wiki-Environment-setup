@@ -23,5 +23,7 @@ $ brew install rbenv ruby-build rbenv-vars
 5.Install the latest version of Ruby
 
 $ rbenv install --list
+
 $ rbenv install 2.7.2 # In the book, it was 2.7.1, but need to use 2.7.2 for M1 chip Mac
+
 $ rbenv local 2.7.2
